@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Developer | Backend & Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Developer;PHP+%7C+C%23+%7C+Python;Building+Real+World+Automation+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&vCenter=true&lines=Welcome+to+my+GitHub!;Software+Developer;PHP+%7C+C%23+%7C+Python;Building+Real+World+Automation+Systems" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dorsa-mohammadi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorsa-mohammadi&theme=tokyonight" />
 </p>
 
 ---
