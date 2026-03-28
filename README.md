@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Developer | Backend & Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Developer;PHP+%7C+Python+%7C+Flutter;Building+Real+World+Automation+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Developer;PHP+%7C+C#+%7C+Python;Building+Real+World+Automation+Systems" />
 </p>
 
 ---
